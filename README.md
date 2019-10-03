@@ -8,8 +8,7 @@ Aircnc é uma aplicação inspirada no app Airbnb pela galera da rocketseat
 
 Dependencias:
 
-- ✔️ 
-- ✔️ 
-- ✔️ 
+- ✔️ [axios]()
+- ✔️ [react-router-dom]()
 
 ---
