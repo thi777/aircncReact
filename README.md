@@ -10,5 +10,6 @@ Dependencias:
 
 - ✔️ [axios]()
 - ✔️ [react-router-dom]()
+- ✔️ [socket.io-client]()
 
 ---
